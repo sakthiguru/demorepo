@@ -1,0 +1,19 @@
+mkdir filename
+cd filename
+git init
+git add 
+git commit -m
+git commit -am
+git config help
+git help config
+git config --list
+git config --global user.username ""
+git config --global user.email ""
+git remote add origin "https.//github.com/"
+git push origin master or main ...
+git pull origin master or main ...
+git branch master or main ...
+git branch -M master or main ...
+git checkout master or main ...
+git status
+git diff - to show the content
